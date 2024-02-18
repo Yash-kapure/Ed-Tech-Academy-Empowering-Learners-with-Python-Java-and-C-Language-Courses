@@ -1,1 +1,3 @@
 # Ed-Tech-Academy-Empowering-Learners-with-Python-Java-and-C-Language-Courses
+
+Our project on GitHub showcases the offerings of Ed Tech Academy, an online learning platform dedicated to providing high-quality tech courses. With a focus on Python, Java, and C language, our repository features comprehensive resources, tutorials, and projects designed to empower learners of all levels. From beginner-friendly introductions to advanced concepts, our goal is to equip students with the skills and knowledge needed to thrive in the ever-evolving tech industry. Join us on GitHub to explore our curriculum, contribute to our open-source projects, and embark on a journey of continuous learning and growth.
