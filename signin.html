@@ -1,0 +1,43 @@
+<?php
+    require("./db/connection.php");
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EdTech acadamy</title>
+    <link rel="stylesheet" href=".\css\signin.css">
+</head>
+<body>
+
+<div class="login-container">
+    <center><h1>EdTech acadamy</h1></center>
+    <hr width="25%">
+    <hr width="50%">
+    <hr width="25%">
+    <div class="login-form">
+        <h2>Login</h2>
+        <form action="#" method="post">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" placeholder="Username" name="adminname" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" placeholder="Password" name="adminpassword" required>
+            </div>
+            <div class="form-group">
+                <button type="submit" name="submit">Login</button>
+                <button type="submit"><a href="index.html">Back</a></button>
+            </div>
+            <div>
+                No Created Account?<a href="signup.html" class="acc">Create Account</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
